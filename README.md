@@ -58,39 +58,31 @@ thenutritionking/
 ```
 
 ## Live Preview
+![Home Page](https://thenutritionking.co.uk/)
 
 ### Home Page
-![Home Page](https://via.placeholder.com/800x500/3498db/ffffff?text=Home+Page)
+![Home Page](https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/thenutritionking_home.png)
 
 ### Shop Page
-![Shop Page](https://via.placeholder.com/800x500/e74c3c/ffffff?text=Shop+Page)
+![Shop Page](https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/thenutritionking_shop.png)
 
 ### Training Gear & Accessories Page
-![Training Gear Page](https://via.placeholder.com/800x500/2ecc71/ffffff?text=Training+Gear+Page)
+![Training Gear Page](https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/thenutritionking_accessories.png)
 
-### Product Detail Page
-![Product Page](https://via.placeholder.com/800x500/9b59b6/ffffff?text=Product+Detail+Page)
 
 ---
 
-## SEO Optimization
-<p align="center">
-  <img src="screenshots/Before Seo .png" alt="Screenshot 1" width="45%" height="250px" />
- <img src="screenshots/After Seo .png" alt="Screenshot 2" width="45%" height="450px" />
-</p>  
-<br>
-<p align="center">
-  ![Traffic Results]<img src="screenshots/Google Search.png" alt="Screenshot 3" width="70%" height="350px" />
-</p> 
-
 ### Before SEO
-![Before SEO](https://via.placeholder.com/400x250/e74c3c/ffffff?text=Before+SEO)
+![Before SEO](https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/Before%20Seo%20.png)
 
 ### After SEO
-![After SEO](https://via.placeholder.com/400x250/2ecc71/ffffff?text=After+SEO)
+![After SEO](https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/After%20Seo%20.png)
+
+### Appear in the Google Search 
+![Apprear](https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/Google%20Search.png)
 
 ### Traffic Results
-![Traffic Results](https://via.placeholder.com/800x400/3498db/ffffff?text=Traffic+Results)
+![Traffic Results](https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/Seo%20Results.png)
 
 **Initial Issues:**
 
@@ -119,9 +111,10 @@ Hi, I'm Sohaib Younas, Web Developer and SEO Specialist. I build modern, respons
 
 **Skills:** WordPress, WooCommerce, PHP, HTML5, CSS3, Bootstrap, JavaScript, SEO
 
-**Portfolio:** [Your Portfolio Website]  
-**GitHub:** [Your GitHub Profile]  
-**LinkedIn:** [Your LinkedIn Profile]
+- ✉️ Email: **sohaibyounas076@gmail.com** 
+- 🌐 Portfolio: [My Portfolio](https://sohaibyounas076.github.io/portfolio/)  
+- 💼 LinkedIn: [Sohaib Younas](https://linkedin.com/in/sohaibyounas076)  
+- 🛠 GitHub: [@sohaibyounas076](https://github.com/sohaibyounas076) 
 
 ---
 
