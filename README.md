@@ -75,8 +75,8 @@ thenutritionking/
 
 ## SEO Optimization
 <p align="center">
-  ![Before SEO]<img src="screenshots/Before Seo .png" alt="Screenshot 1" width="45%" height="250px" />
-  ![After SEO]<img src="screenshots/After Seo .png" alt="Screenshot 2" width="45%" height="450px" />
+  <img src="screenshots/Before Seo .png" alt="Screenshot 1" width="45%" height="250px" />
+ <img src="screenshots/After Seo .png" alt="Screenshot 2" width="45%" height="450px" />
 </p>  
 <br>
 <p align="center">
