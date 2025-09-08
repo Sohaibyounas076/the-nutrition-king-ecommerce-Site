@@ -90,8 +90,8 @@ Initial SEO problems included slow pages, weak meta tags, missing image alt text
 
 ### Before SEO & ### After SEO
 <p align="center">
-  <img src="screenshots/Before%20Seo%20.png" alt="Screenshot 1" width="45%" height="250px" />
-  <img src="screenshots/After%20Seo%20.png" alt="Screenshot 2" width="45%" height="450px" />
+  <img src="screenshots/Before%20Seo%20.png" alt="Screenshot 1" width="45%" height="250px" margin-left="5px" />
+  <img src="screenshots/After%20Seo%20.png" alt="Screenshot 2" width="45%" height="450px" margin-right="5px" />
 </p>
 
 **SEO Strategy Implemented:**
