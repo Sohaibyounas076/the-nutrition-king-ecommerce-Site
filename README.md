@@ -60,15 +60,12 @@ thenutritionking/
 ## Live Preview
 ![Home Page](https://thenutritionking.co.uk/)
 
-### Home Page
-![Home Page](https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/thenutritionking_home.png)
-
-### Shop Page
-![Shop Page](https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/thenutritionking_shop.png)
-
-### Training Gear & Accessories Page
-![Training Gear Page](https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/thenutritionking_accessories.png)
-
+### Home Page & ### Shop Page
+<p align="center">
+  <img src="screenshots/screenshots/thenutritionking_shop.png" alt="Screenshot 1" width="50%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/thenutritionking_accessories.png" alt="Screenshot 2" width="50%" />
+</p> 
 
 ---
 ## SEO Optimization
@@ -115,6 +112,7 @@ Initial SEO problems included slow pages, weak meta tags, missing image alt text
 ### Appear in the Google Search & Traffic Results
 <p align="center">
   <img src="screenshots/Google%20Search.png" alt="Screenshot 1" width="45%" height="250px" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="screenshots/Seo%20Results.png" alt="Screenshot 2" width="45%" height="450px" />
 </p> 
 
