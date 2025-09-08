@@ -83,8 +83,8 @@ thenutritionking/
     <td align="center"><b>Shop Page</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/thenutritionking_home.png" alt="Home Page Screenshot" width="100%" height="400px"></td>
-    <td><img src="screenshots/thenutritionking_shop.png" alt="Shop Page Screenshot" width="100%" height="400px"></td>
+    <td><img src="screenshots/thenutritionking_home.png" alt="Home Page Screenshot" width="100%" "></td>
+    <td><img src="screenshots/thenutritionking_shop.png" alt="Shop Page Screenshot" width="100%" "></td>
   </tr>
 </table>
 
