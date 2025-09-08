@@ -61,12 +61,15 @@ thenutritionking/
 - 🌐 Portfolio: [Live Preview](https://thenutritionking.co.uk/) 
 
 
-### Home Page &  ### Shop Page
-<p align="center">
-  <img src="screenshots/thenutritionking_home.png" alt="Home Page Screenshot" width="49%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/thenutritionking_shop.png" alt="Shop Page Screenshot " width="49%"   />
-</p> 
+### Home Page and Shop Page
+
+<table>
+  <tr>
+    <td><img src="screenshots/thenutritionking_home.png" alt="Home Page Screenshot" width="49%"></td>
+    <td><img src="screenshots/thenutritionking_shop.png" alt="Shop Page Screenshot" width="49%"></td>
+  </tr>
+</table>
+
 
 ---
 ## SEO Optimization
