@@ -58,13 +58,14 @@ thenutritionking/
 ```
 
 ## Live Preview
-![Home Page](https://thenutritionking.co.uk/)
+- 🌐 Portfolio: [Live Preview](https://thenutritionking.co.uk/) 
 
-### Home Page & ### Shop Page
+
+### Home Page &  ### Shop Page
 <p align="center">
-  <img src="screenshots/screenshots/thenutritionking_shop.png" alt="Screenshot 1" width="50%" />
+  <img src="screenshots/screenshots/thenutritionking_home.png" alt="Home Page Screenshot" width="40%" height="800px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/thenutritionking_accessories.png" alt="Screenshot 2" width="50%" />
+  <img src="screenshots/thenutritionking_shop.png" alt="Screenshot 2" width="40%" height="800px" />
 </p> 
 
 ---
