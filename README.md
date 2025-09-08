@@ -65,8 +65,8 @@ thenutritionking/
 
 <table>
   <tr>
-    <td><img src="screenshots/thenutritionking_home.png" alt="Home Page Screenshot" width="49%" height="12oopx"></td>
-    <td><img src="screenshots/thenutritionking_shop.png" alt="Shop Page Screenshot" width="49%" height="1200px"></td>
+    <td><img src="screenshots/thenutritionking_home.png" alt="Home Page Screenshot" width="49%" height="900px"></td>
+    <td><img src="screenshots/thenutritionking_shop.png" alt="Shop Page Screenshot" width="49%" height="900px"></td>
   </tr>
 </table>
 
