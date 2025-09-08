@@ -87,12 +87,14 @@ Initial SEO problems included slow pages, weak meta tags, missing image alt text
 - 12 recommended fixes not implemented
 - Poor metadata, slow loading, missing alt tags, poor mobile responsiveness
 
+### Before SEO and After SEO
 
-### Before SEO & ### After SEO
-<p align="center">
-  <img src="screenshots/Before%20Seo%20.png" alt="Screenshot 1" width="45%" height="250px" margin-left="5px" />
-  <img src="screenshots/After%20Seo%20.png" alt="Screenshot 2" width="45%" height="450px" margin-right="5px" />
-</p>
+<div align="center" style="display: flex; gap: 20px; justify-content: center;">
+  <img src="screenshots/Before%20Seo%20.png" alt="Before SEO" width="45%" height="250px" />
+  <img src="screenshots/After%20Seo%20.png" alt="After SEO" width="45%" height="250px" />
+</div>
+
+
 
 **SEO Strategy Implemented:**
 
