@@ -63,7 +63,7 @@ thenutritionking/
 
 ### Home Page &  ### Shop Page
 <p align="center">
-  <img src="screenshots/screenshots/thenutritionking_home.png" alt="Home Page Screenshot" />
+  <img src="screenshots/thenutritionking_home.png" alt="Home Page Screenshot" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="screenshots/thenutritionking_shop.png" alt="Shop Page Screenshot "   />
 </p> 
