@@ -58,7 +58,7 @@ thenutritionking/
 ```
 
 ## Live Preview
-- 🌐 Portfolio: [Live Preview](https://thenutritionking.co.uk/) 
+- 🌐 Live Preview: [Live Preview](https://thenutritionking.co.uk/) 
 
 
 ### Home Page and Shop Page
