@@ -63,12 +63,15 @@ thenutritionking/
 
 ### Home Page and Shop Page
 
+### Home Page and Shop Page
+
 <table>
   <tr>
-    <td><img src="screenshots/thenutritionking_home.png" alt="Home Page Screenshot" width="49%"></td>
-    <td><img src="screenshots/thenutritionking_shop.png" alt="Shop Page Screenshot" width="49%"></td>
+    <td><img src="screenshots/thenutritionking_home.png" alt="Home Page Screenshot" width="100%"></td>
+    <td><img src="screenshots/thenutritionking_shop.png" alt="Shop Page Screenshot" width="100%"></td>
   </tr>
 </table>
+
 
 
 ---
