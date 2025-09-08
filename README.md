@@ -71,24 +71,28 @@ thenutritionking/
 
 
 ---
+## SEO Optimization
 
-### Before SEO
-![Before SEO](https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/Before%20Seo%20.png)
+Website build complete. Client asked if I could get the site to appear on Google. I showed the client an initial SEO audit. The audit showed many critical issues. The client was impressed and ordered SEO work.
 
-### After SEO
-![After SEO](https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/After%20Seo%20.png)
+Initial SEO problems included slow pages, weak meta tags, missing image alt text, and poor mobile experience. I created a step by step SEO plan. I implemented on page, technical, content, and off page fixes. Below are the screenshots showing before and after results, followed by traffic results.
 
-### Appear in the Google Search 
-![Apprear](https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/Google%20Search.png)
 
-### Traffic Results
-![Traffic Results](https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/Seo%20Results.png)
+
+
 
 **Initial Issues:**
 
 - 13 critical issues affecting rankings
 - 12 recommended fixes not implemented
 - Poor metadata, slow loading, missing alt tags, poor mobile responsiveness
+
+
+### Before SEO & ### After SEO
+<p align="center">
+  <img src="screenshots/Before%20Seo%20.png" alt="Screenshot 1" width="45%" height="250px" />
+  <img src="screenshots/After%20Seo%20.png" alt="Screenshot 2" width="45%" height="450px" />
+</p>
 
 **SEO Strategy Implemented:**
 
@@ -102,6 +106,12 @@ thenutritionking/
 - Overall SEO Score: 96/100
 - 0 critical issues remaining
 - Website ranks for terms like "bodybuilding supplements UK", "weight loss products", "training gear"
+
+### Appear in the Google Search & Traffic Results
+<p align="center">
+  <img src="screenshots/Google%20Search.png" alt="Screenshot 1" width="45%" height="250px" />
+  <img src="screenshots/Seo%20Results.png" alt="Screenshot 2" width="45%" height="450px" />
+</p> 
 
 ---
 
